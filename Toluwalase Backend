@@ -1,1 +1,9 @@
-{"slack_name":"Toluwalase","current_day":"Monday","utc_time":"2023-09-11T20:09:41.425Z","track":"Backend","github_file_url":"https://github.com/username/repo/blob/main/file_name.ext","github_repo_url":"https://github.com/Abigail-cloud/host_endpoint.git","status_code":200}
+const response = {
+    slack_name: slackName,
+    current_day: currentDay,
+    utc_time: currentUTC,
+    track: track,
+    github_file_url: githubFileUrl, // GitHub URL of the app.js file
+    github_repo_url: githubRepoUrl, // GitHub repository link
+    status_code: 200,
+};
