@@ -1,0 +1,24 @@
+{
+  "name": "host_endpoint",
+  "description": "endpoint should take two GET request query parameters and return specific information in JSON format.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abigail-cloud/host_endpoint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abigail-cloud/host_endpoint/issues"
+  },
+  "homepage": "https://github.com/Abigail-cloud/host_endpoint#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
